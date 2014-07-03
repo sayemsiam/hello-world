@@ -1,5 +1,6 @@
 
 //just a new comment
+//comment in another branch
 package com.example.gittest;
 
 import android.os.Bundle;
